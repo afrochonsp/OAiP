@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\danila\source\repos\laba8\laba8\myform.h(237): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Laba8.vcxproj -> C:\Users\danila\source\repos\Laba8\Release\Laba8.exe

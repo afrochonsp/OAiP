@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\danila\source\repos\semester1\laba1\пример оконного приложения\variant1\variant1\myform.cpp(19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\danila\source\repos\semester1\laba1\пример оконного приложения\variant1\variant1\myform.cpp(19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Variant1.vcxproj -> C:\Users\danila\source\repos\Semester1\Laba1\Пример оконного приложения\Variant1\Debug\Variant1.exe

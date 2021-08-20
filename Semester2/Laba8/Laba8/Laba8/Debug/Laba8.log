@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\danila\source\repos\semester2\laba8\laba8\laba8\myform.cpp(66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba8.vcxproj -> C:\Users\danila\source\repos\Semester2\Laba8\Laba8\Debug\Laba8.exe
